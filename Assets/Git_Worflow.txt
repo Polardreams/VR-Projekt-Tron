@@ -1,0 +1,9 @@
+Rechtsklick immer im Tron Ordner!!
+
+Fetch (master/branch)
+Pull (master/branch)
+Unity öffnen
+"arbeit"
+Unity schließen
+Commit mit comment (master/branch)
+Push (master/branch)
